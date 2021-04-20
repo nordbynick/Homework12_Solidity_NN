@@ -34,24 +34,24 @@ The motivation of this assignment is to create a smart contract on solidity that
 
 First, write the code (code file also attached):
 
-![](images/Code_Final.PNG)
+![](images/Code_1.PNG)
 
 Second, compile the code:
 
-![](images/Compiled_Final.PNG)
+![](images/Compiled_1.PNG)
 
 Third, deploy the code:
 
-![](images/Deploy_Setup_Final.PNG)
+![](images/Deploy_1.PNG)
 
 Fourth, confirm via MetaMask:
 
-![](images/MetaMast_Notification_Final.PNG)
+![](images/MetaMast_Confirm_1.PNG)
 
 Fifth, look for confirmation notification:
 
-![](images/Confirmed_Transaction_Final.PNG)
+![](images/MetaMask_Confirmation_Final_1.PNG)
 
 Sixth, further confirm by taking note of deployed contract in Remix:
 
-![](images/Deposit_Final.PNG)
+![](images/Deployed_Contract_1.PNG)
