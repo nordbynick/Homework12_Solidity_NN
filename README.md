@@ -38,7 +38,7 @@ First, write the code (code file also attached):
 
 Second, compile the code:
 
-![](images/Compiled_1.PNG)
+![](images/Compile_1.PNG)
 
 Third, deploy the code:
 
