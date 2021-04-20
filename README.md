@@ -48,6 +48,10 @@ Fourth, confirm via MetaMask:
 
 ![](images/MetaMast_Notification_Final.PNG)
 
-Fifth & final, look for confirmation notification:
+Fifth, look for confirmation notification:
 
 ![](images/Confirmed_Transaction_Final.PNG)
+
+Sixth, further confirm by taking note of deployed contract in Remix:
+
+![](images/Deposit_Final.PNG)
