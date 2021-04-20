@@ -24,7 +24,7 @@ Environment: Injected Web3
 
 *Question 1: How does the contract work?*
 
-A solidity contract is a collection of code and data that lives on the blockchain. In this scenario, we used Remix to write and deploy the contract, along with Ganache & MetaMask to help store our ethereum and manage the keys.
+A solidity contract is a collection of code and data that lives on the blockchain. In this scenario, we used Remix to write and deploy the contract, along with Ganache & MetaMask to interact with the blockchain, store our ethereum, and manage our keys.
 
 This particular contract works by taking a specificed amount of eth from one address, splitting it into three, and dispersing those amounts equally amongst three designated addresses.
 
