@@ -4,7 +4,9 @@ Nick Nordby
 
 Solidity Homework Submission
 
-**Note:** I was out of town for most of the week, so I was only able to attempt one of the levels (Level One), which is all that is required for the homework submission.
+**Note:** 
+
+I was out of town for most of the week, so I was only able to attempt one of the levels (Level One), which is all that is required for the homework submission.
 
 **Setup:**
 
