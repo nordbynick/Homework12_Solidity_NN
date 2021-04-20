@@ -8,14 +8,12 @@ Solidity Homework Submission
 
 **Setup:**
 
-Programs:
-
-Ganache
-MetaMask
-Remix (Solidity) - please see my code attached
+Programs: Ganache; MetaMask; Remix (Solidity) - please see my code attached
 
 Compiler: 0.5.0+
+
 Network ID: 5777
+
 Server: HTTP://127.0.0.1:8545
 
 **Questions:**
@@ -24,7 +22,7 @@ Server: HTTP://127.0.0.1:8545
 
 A solidity contract is a collection of code and data that lives on the blockchain. In this scenario, we used Remix to write and deploy the contract, along with Ganache & MetaMask to help store our ethereum and manage the keys.
 
-This particular contract works by taking a specificed amount from one address, splitting it into three, and dispersing those amounts equally amongst three designated addresses.
+This particular contract works by taking a specificed amount of eth from one address, splitting it into three, and dispersing those amounts equally amongst three designated addresses.
 
 *Question 2: What is the motivation?*
 
@@ -34,7 +32,7 @@ The motivation of this assignment is to create a smart contract on solidity that
 
 *How to send & process a transaction:*
 
-First, write the code:
+First, write the code (code file also attached):
 
 ![](images/Code_Final.PNG)
 
