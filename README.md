@@ -8,7 +8,7 @@ Solidity Homework Submission
 
 **Setup:**
 
-Programs: Ganache; MetaMask; Remix (Solidity) - please see my code attached
+Programs: Ganache; MetaMask; Remix (Solidity)
 
 Compiler: 0.5.0+
 
