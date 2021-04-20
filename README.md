@@ -18,6 +18,8 @@ Network ID: 5777
 
 Server: HTTP://127.0.0.1:8545
 
+Environment: Injected Web3
+
 **Questions:**
 
 *Question 1: How does the contract work?*
