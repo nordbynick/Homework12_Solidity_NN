@@ -46,11 +46,11 @@ Third, deploy the code:
 
 Fourth, confirm via MetaMask:
 
-![](images/MetaMast_Confirm_1.PNG)
+![](images/MetaMask_Confirm_1.PNG)
 
 Fifth, look for confirmation notification:
 
-![](images/MetaMask_Confirmation_Final_1.PNG)
+![](images/MetaMask_Confirm_Final_1.PNG)
 
 Sixth, further confirm by taking note of deployed contract in Remix:
 
